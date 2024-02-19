@@ -1,13 +1,3 @@
-"""
-Task Automation with Python Scripts
-
-Identify a repetitive task in your workflow and create
-Python scripts to automate it. This could include tasks
-like file organization, data cleaning, or system
-maintenance.
-Make a clean and user-friendly GUI to run the script.
-"""
-
 # Importing the required libraries
 import os
 import shutil
